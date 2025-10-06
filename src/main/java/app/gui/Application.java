@@ -322,7 +322,7 @@ public class Application {
         theCard.add(resultLabel);
         return theCard;
     }
-    g
+
     private static JPanel createManageTeamCard(JFrame jFrame, LeaveTeamUseCase leaveTeamUseCase,
                                                GetAverageGradeUseCase getAverageGradeUseCase,
                                                GetTopGradeUseCase getTopGradeUseCase) {
